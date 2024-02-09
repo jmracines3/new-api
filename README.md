@@ -1,3 +1,5 @@
-hello my name is jm
-i love to play basketball
-my favorite food is kare-kare
+Hello my name is JM.
+I love to play basketball.
+My favorite food is kare-kare.
+
+I'm interested with collaboraing with tech-savvy people and learn from them.
